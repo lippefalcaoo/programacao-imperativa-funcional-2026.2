@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    int a = 2005;
+    printf("\nnasci em: %d\n", a); 
     return 0;
 }
