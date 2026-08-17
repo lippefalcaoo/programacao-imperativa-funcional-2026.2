@@ -1,11 +1,11 @@
-#include <stdio.h> /*faltava essas bibliotecas para funcionar*/
-#include <stdlib.h>
+#include <stdio.h> /* necessario para printf */
+#include <stdlib.h> /* necessario para system */
 
-int main() /*faltou int no main*/
+int main() /* define o tipo de retorno inteiro */
 {
 printf("\nLinguagem C\n");
 system("pause");
-return 0; /*como igualmente faltou o return0*/
+return 0; /*indica finalizaçao bem sucedida*/
 }
 
 
