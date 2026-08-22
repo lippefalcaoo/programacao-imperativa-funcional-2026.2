@@ -1,8 +1,8 @@
 ## Questão 01
 
-**Descrição:** Programa que declara uma variável inteira, atribui o ano de nascimento e exibe o valor na tela com mensagem explicativa.
+**descrição:** programa que declara uma variável inteira, atribui o ano de nascimento e exibe o valor na tela com mensagem explicativa.
 
-**Código de Resolução:**
+**código de resolução:**
 ```c
 #include <stdio.h>
 
