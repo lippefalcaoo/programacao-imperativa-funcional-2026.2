@@ -1,9 +1,9 @@
-/*esta faltando as bibliotecas (stdio) 
-e (stdlib)*/
+#include <stdio.h>
+#include <stdlib.h>
 
-main()
-{
-int a=1; b=2; c=3:
-printf("0s números são: %d%d%d\n, a, b, c, d);
-system("pause");
+int main(){
+    int a=1, b=2, c=3, d=4;
+    printf("Os números são: %d %d %d %d\n", a, b, c, d);
+    system("pause");
+    return 0;
 }
