@@ -6,4 +6,4 @@
 * **c) São arquivos de texto ASCII padrão contendo protótipos de funções, definições de constantes, macros e tipos.**
 
 **justificativa:**
-Arquivos `.h` são arquivos de texto legíveis pelo programador (código-fonte), e não binários pré-compilados. Eles servem para declarar protótipos de funções (como `printf()` em `<stdio.h>`), definições de macros e constantes, permitindo que o compilador verifique a sintaxe dos comandos antes da fase de linkedição.
+Os arquivos `.h` contêm o texto com as declarações que são trazidas para o código-fonte através da diretiva `#include`. Eles servem para disponibilizar o acesso a funções da biblioteca padrão (como o `printf()` em `<stdio.h>`).
