@@ -3,7 +3,7 @@
 int main() {
     int total_segundos, horas, minutos, segundos;
 
-    printf("Digite o tempo em segundos: ");
+    printf("digite o tempo em segundos: ");
     scanf("%d", &total_segundos);
 
     horas = total_segundos / 3600;
