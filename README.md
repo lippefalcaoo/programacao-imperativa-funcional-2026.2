@@ -9,8 +9,6 @@ Repositório destinado ao armazenamento e organização das listas de exercício
 O repositório é organizado em diretórios referentes a cada capítulo e conteúdo disponibilizado pelo professor ao longo do semestre:
 
 * `capitulo-01/` — Conceitos básicos, sintaxe, entrada/saída e formatação
-* `capitulo-02/` — Estruturas condicionais e operadores
-* `capitulo-03/` — Estruturas de repetição
 * *(novos capítulos serão adicionados conforme o andamento das aulas)*
 
 ---
