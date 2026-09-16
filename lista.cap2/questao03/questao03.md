@@ -1,0 +1,3 @@
+## questão 03
+
+a função `printf()` permite exibir a mesma variável inteira de várias formas diferentes apenas mudando o especificador de formato. usando `%d` lemos a base decimal, `%x` converte para hexadecimal em letras minúsculas, `%o` converte para octal e `%c` interpreta o valor numérico como o caractere correspondente na tabela ascii, tudo isso sem precisar alterar o valor armazenado na memória.
